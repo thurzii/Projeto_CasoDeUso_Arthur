@@ -1,4 +1,4 @@
-# Acrônimos e Símbolos
+# Acrônimos usados neste diagrama de caso de uso
 
 ## Atores
 - SYS → Sistema
